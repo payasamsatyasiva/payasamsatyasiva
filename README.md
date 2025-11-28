@@ -74,7 +74,7 @@ With a strong background in **Machine Learning, Deep Learning, NLP, and Generati
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/payasamsatyasiva-jpg" target="_blank">
+  <a href="https://github.com/payasamsatyasiva" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" />
   </a>
 
