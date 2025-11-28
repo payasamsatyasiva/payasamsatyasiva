@@ -69,7 +69,7 @@ With a strong background in **Machine Learning, Deep Learning, NLP, and Generati
 <div align="center">
 
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/payasam-veera-venkata-satya-siva-krishna-0728a3384" target="_blank">
+  <a href="https://www.linkedin.com/in/payasam-veera-venkata-satya-siva-krishna-0728a3384/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
 
